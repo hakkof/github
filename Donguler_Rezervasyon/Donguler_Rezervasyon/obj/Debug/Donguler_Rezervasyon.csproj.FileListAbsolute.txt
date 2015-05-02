@@ -1,0 +1,12 @@
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\bin\Debug\Donguler_Rezervasyon.exe.config
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.exe
+\\ALS-YG39402-L00\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.pdb
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\bin\Debug\Donguler_Rezervasyon.exe.config
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\bin\Debug\Donguler_Rezervasyon.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\bin\Debug\Donguler_Rezervasyon.pdb
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.csprojResolveAssemblyReference.cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.Form1.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.Properties.Resources.resources
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.csproj.GenerateResource.Cache
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.exe
+C:\Users\gokhan.sipahi\Documents\YG3-9402\GokhanSipahi\Donguler_Rezervasyon\Donguler_Rezervasyon\obj\Debug\Donguler_Rezervasyon.pdb
